@@ -30,12 +30,13 @@ As of July 26, 2019, only the first two tasks are available.
 This is only a preliminary plan. I will be continuously updating and extending it as I gain a better, deeper understanding of the problems at stake.
 
 
-1. Prepare a clean labelled corpus of context-free Arabic and Tunisian dialect words.
-2. Build a word-level language classifier for MSA vs. Tunisian dialect using ngram language model and anomaly based approach.
-3. Build a word-level language classifier for MSA vs. Tunisian dialect using bag of ngram features and supervised learning approach.
-4. Build a sentence-level language classifier for MSA vs. Tunisian dialect based on the word-level classifiers.
-5. Generate a lexicon (wordnet) for the Tunisian dialect based on above language classifiers.
-6. Induce morphological rules and a morphological analysis method for the Tunisian dialect based on above results.
+1. **Part 1**: Prepare a clean labelled corpus of context-free Arabic and Tunisian dialect words.
+2. **Part 2**: Build a word-level language classifier for MSA vs. Tunisian dialect.
+3. **Part 3**: Build a sentence-level language classifier for MSA vs. Tunisian dialect based on the word-level classifier.
+4. Generate a lexicon (wordnet) for the Tunisian dialect based on above language classifiers.
+5. Induce morphological rules and a morphological analysis method for the Tunisian dialect based on above results.
+
+
 
 # Requirements
 

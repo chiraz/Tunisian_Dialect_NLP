@@ -72,7 +72,7 @@ being the word's features. This approach automatically/implicitly learns appropr
 ### Supervised learning approach results
 
 
-### Feature representation and selection
+#### Feature representation and selection
 
 - Based on qualitative visual inspection of the words containing top features, the **Chi-squared statistic** seems to be better than mutual information at discerning important (discriminant) features. 
 
